@@ -1,7 +1,0 @@
-services:
-  mycontainer:
-    build: .
-    volumes:
-      - './persist_vol/:/home/containeruser/persist_vol:rw'  
-    stdin_open: true # docker run -i
-    tty: true        # docker run -t
