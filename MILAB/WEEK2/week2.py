@@ -44,31 +44,6 @@ def A_star_Traversal(cost, heuristic, start_point, goals):
 
 
 
-
-def dls(cost, goals, depth, path_arr, visited):
-    current = path_arr[-1]
-    if current in goals:
-        return path_arr
-    if depth == 0 and current in goals:
-        return path_arr
-    if depth == 0:
-        return None
-
-    for i in range(0,len(cost[current])):
-        if cost[current][i] > 0 and i not in visited:
-            new_path = path_arr;
-            new_path.append(i)
-            new_visited = visited
-            new_visited.append(i)
-            new_depth = depth
-            new_depth-=1
-            res = dls(cost, goals, new_depth, new_path, new_visited)
-            if res is not None :
-                return res
-
-    return None
-    
-
 def DFS_Traversal(cost, start_point, goals):
     """
     Perform DFS Traversal and find the optimal path 
@@ -82,16 +57,6 @@ def DFS_Traversal(cost, start_point, goals):
     To be able to find shortest path using DFS, we need to use IDS (Iterative deepening search)
     i.e we need to optimise at all steps
     """
-    length = 0;
-    limit = len(cost)
-    while length <= limit:
-        path_arr = []
-        visited = []
-        path_arr.append(start_point)
-        res = dls(cost,goals, length, path_arr, visited)
-        if res is not None:
-            print(path_arr)
-        length+=1
     path = []
     # TODO
     return path

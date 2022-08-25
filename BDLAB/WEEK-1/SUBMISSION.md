@@ -27,13 +27,15 @@
 ![image](./screenshots/2f.png)
 
 ### Formatting namenode : 
-![image](./screenshots/2f.png)
 
-### JPS output 
 ![image](./screenshots/3a.png)
 
-### MapReduce job output 1 : 
+### JPS output 
 ![image](./screenshots/4a.png)
 
-### MapReduce job output 2 : 
+### MapReduce job output 1 : 
 ![image](./screenshots/6a.png)
+
+
+### MapReduce job output 2 : 
+![image](./screenshots/7a.png)
