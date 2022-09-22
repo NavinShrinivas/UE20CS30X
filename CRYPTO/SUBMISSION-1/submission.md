@@ -1,3 +1,16 @@
+---
+stylesheet: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css
+body_class: markdown-body
+css: |-
+  .page-break { page-break-after: always; }
+  .markdown-body { font-size: 14px; }
+  .markdown-body pre > code { white-space: pre-wrap; }
+pdf_options:
+  margins : 25mm
+  printBackground: true
+---
+
+
 # Lab 01 - Applied Cryptography | Working wihth logical ciphers
 
 - Name : P K Navin Shrinivas
