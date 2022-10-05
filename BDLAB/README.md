@@ -6,3 +6,5 @@
 - Task 2 | MapRedduce 
     - Using the large json dump along with the online portal, we write mapper and reducer file.
 - Task 3 | Hive Commands
+- Task 4 | Googles Page rank Algorithm
+`
