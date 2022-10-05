@@ -1,0 +1,45 @@
+From_Station_No,To_Station_no,From_Station_Name,To_Station_Name,Distance,Train_No
+1,2,Bengaluru,Bangarpet,71,62621
+2,3,Bangarpet,Katpadi,161,62621
+3,4,Katpadi,Sholigur,40,62621
+4,5,Sholingur,Chennai,90,62621
+1,3,Bengaluru,Katpadi,232,62621
+1,4,Bengaluru,Sholigur,272,62621
+1,5,Bengaluru,Chennai,362,62621
+2,4,Bangarpet,Sholigur,201,62621
+2,5,Bangarpet,Chennai,291,62621
+3,5,Katpadi,Chennai,130,62621
+1,2,Chennai,Sholingur,90,62620
+2,3,Sholingur,Katpadi,39,62620
+3,4,Katpadi,Bangarpet,161,62620
+4,5,Bangarpet,Bengaluru,71,62620
+1,3,Chennai,Katpadi,129,62620
+1,4,Chennai,Bangarpet,290,62620
+1,5,Chennai,Bengaluru,361,62620
+2,4,Sholingur,Bangarpet,200,62620
+2,5,Sholingur,Chennai,271,62620
+3,5,Katpadi,Chennai,232,62620
+1,2,Chennai,Palakkad,130,25261
+2,3,Palakkad,Kannur,220,25261
+3,4,Kannur ,Mangaluru,131,25261
+1,3,Chennai,Kannur,350,25261
+1,4,Chennai,Mangaluru,481,25261
+2,4,Palakkad,Mangaluru,351,25261
+1,2,Mangaluru,Kannur,131,25260
+2,3,Kannur ,Palakkad,220,25260
+4,4,Palakkad,Chennai,130,25260
+1,3,Mangaluru,Palakkad,351,25260
+1,4,Mangaluru,Chennai,481,25260
+2,4,Kannur ,Chennai,350,25260
+1,2,Bengaluru,Mysore,139,58451
+2,3,Mysore,Subramanya,170,58451
+3,4,Subramanya,Mangaluru,194,58451
+1,3,Bengaluru,Subramanya,309,58451
+1,4,Bengaluru,Mangaluru,503,58451
+2,4,Mysore,Mangaluru,364,58451
+1,2,Mangaluru,Subramanya,195,58450
+2,3,Subramanya,Mysore,170,58450
+3,4,Mysore,Bengaluru,139,58450
+1,3,Mangaluru,Mysore,365,58450
+1,4,Mangaluru,Bengaluru,504,58450
+2,4,Subramanya,Bengaluru,309,58450

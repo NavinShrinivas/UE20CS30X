@@ -1,0 +1,34 @@
+User_ID,User_Type ,FName,LName ,Age,DOB,PinCode,Street Number
+USR_001,PSGR,  Ajit,Ullal,NULL,1971-01-01,560001,"10, Janpath"
+USR_002,PSGR,Muhammed ,Ali,NULL,2000-10-09,560003,"10, Downing"
+USR_003,PSGR,Sai Deepak,Reddy,NULL,1996-12-12,600001,"14, Kailsh Marg"
+USR_004,PSGR,Rudra,Agarwal,NULL,1996-12-13,600042,"5, Lohia Garden"
+USR_005,PSGR,Rahul,Khanna,NULL,1997-12-14,600067,"1, Pink Street"
+USR_006,PSGR,Nirmala,Seturaman,NULL,1998-12-15,560105,"3, Blue Avenue"
+USR_007,PSGR,Smriti,Irani,NULL,1999-12-16,575014,"4, Banyan Avenie"
+USR_008,PSGR,Ajit,Sethi,NULL,1966-04-14,575001,"6, Poes Garden"
+USR_009,PSGR,Arjun,Allu,NULL,1967-04-08,575020,"7, Dhamaka street"
+USR_010,PSGR,Samanta,Prabhu,NULL,1968-04-14,600042,"8, Clone Colony"
+USR_011,PSGR,Kiran ,Bedi,NULL,1969-04-14,560003,"56, Brigade Road"
+USR_012,PSGR,Rahul ,Gandhi,NULL,1970-04-08,475001,Mirza road
+USR_013,PSGR,Rashkit ,Shetty,NULL,1971-04-14,560009,JC Road
+USR_014,PSGR,Rishi,Sunak,NULL,1972-04-14,600034,Anna Sali
+USR_015,PSGR,Vedavalli,Srinath,NULL,1973-04-14,560054,"Church Street, Bangalore"
+USR_016,PSGR,Subbu,Saravana,NULL,1974-04-14,600043,American Street
+USR_017,PSGR,Sheela,Dixit,NULL,1975-04-08,560048,Kasturba Road
+USR_018,PSGR,Margaret,Alva,NULL,1976-04-14,560008,New BEL Road
+USR_019,PSGR,Arun,Kumar,NULL,1977-04-14,600046,Mint Street
+USR_020,PSGR,Anshu,Bhardwaj,NULL,1978-04-14,575001,KSR Road
+USR_021,PSGR,Suma,Sampat,NULL,1979-04-08,560012,"Old Airport Road, Bangalore"
+USR_022,PSGR,Srihari,Udupa,NULL,1980-04-14,560015,Suranjan Das Road
+USR_023,PSGR,Satish,Kotian,NULL,1981-04-14,600044,T Nagar
+USR_024,PSGR,Shradha,Nayar,NULL,1982-04-08,560006,"M G Road, Bangalore"
+USR_025,PSGR,Manisha,Solanki,NULL,1983-04-08,575030,M G Road
+USR_026,PSGR,Bharti,Devgan,NULL,1984-04-14,560059,NAL Wind Tunnel Road
+USR_027,PSGR,Roopa,Ram,NULL,1985-04-14,575023,Bunder Road
+USR_028,PSGR,Pallavi,Ram,NULL,1986-04-08,560044,Lavelle Road
+USR_029,PSGR,Ravi,Naik,NULL,1987-04-14,600045,Thiru V ka Salai
+USR_030,PSGR,Virat,Murthy,NULL,1988-04-14,575011,Bejai New Road
+ADM_001,ADMIN,Narendra ,Modi,NULL,1989-04-14,600047,Old Jail Road
+ADM_002,ADMIN,Droupadi,Murmu,NULL,1990-04-14,640012,High Street
+ADM_003,ADMIN,Manmohan ,Singh,NULL,1991-04-08,575003,Pumpwell Road

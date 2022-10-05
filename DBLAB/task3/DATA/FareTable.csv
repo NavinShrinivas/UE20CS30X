@@ -1,0 +1,10 @@
+Train_Type,Compartment_Type,Fare/KM (Rs)
+Superfast,I Class,3.3
+Superfast,II Class,1.92
+Superfast,III Class,1.32
+Fast,I Class,2.75
+Fast,II Class,1.6
+Fast,III Class,1.1
+Mail,I Class,2.3
+Mail,II Class,1.35
+Mail,III Class,0.95
