@@ -1,0 +1,78 @@
+{
+    "Andaman and Nicobar": {
+        "Min": 6000.0,
+        "Max": 8000.0
+    },
+    "Assam": {
+        "Min": 1000.0,
+        "Max": 1200.0
+    },
+    "Gujarat": {
+        "Min": 1685.71,
+        "Max": 2053.57
+    },
+    "Haryana": {
+        "Min": 1066.67,
+        "Max": 1900.0
+    },
+    "Himachal Pradesh": {
+        "Min": 2450.0,
+        "Max": 2750.0
+    },
+    "Jammu and Kashmir": {
+        "Min": 1500.0,
+        "Max": 1700.0
+    },
+    "Kerala": {
+        "Min": 2866.67,
+        "Max": 3122.22
+    },
+    "Madhya Pradesh": {
+        "Min": 1300.0,
+        "Max": 1350.0
+    },
+    "Maharashtra": {
+        "Min": 1376.57,
+        "Max": 2206.0
+    },
+    "Manipur": {
+        "Min": 1550.0,
+        "Max": 2016.67
+    },
+    "Meghalaya": {
+        "Min": 6000.0,
+        "Max": 7000.0
+    },
+    "Odisha": {
+        "Min": 1100.0,
+        "Max": 1274.0
+    },
+    "Punjab": {
+        "Min": 1240.0,
+        "Max": 1833.0
+    },
+    "Rajasthan": {
+        "Min": 2083.0,
+        "Max": 2243.0
+    },
+    "Tamil Nadu": {
+        "Min": 3378.6,
+        "Max": 3790.6
+    },
+    "Telangana": {
+        "Min": 6000.0,
+        "Max": 8500.0
+    },
+    "Tripura": {
+        "Min": 1600.0,
+        "Max": 1750.0
+    },
+    "Uttar Pradesh": {
+        "Min": 1824.29,
+        "Max": 1933.39
+    },
+    "West Bengal": {
+        "Min": 3966.67,
+        "Max": 4091.67
+    }
+}
