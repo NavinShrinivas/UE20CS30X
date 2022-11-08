@@ -7,4 +7,6 @@
     - Using the large json dump along with the online portal, we write mapper and reducer file.
 - Task 3 | Hive Commands
 - Task 4 | Googles Page rank Algorithm
-`
+- Task 5 | Kafka and Spark
+
+After this, we were asked to work on a project with a pre determined topic and dataset
