@@ -16,8 +16,8 @@ for line in sys.stdin:
         continue
     line_csv =  csv.reader([line.strip()])
     line_split = list()
-    for row in line_csv : 
-        line_split = row
+    for row in line_csv :  # Only way to get line outof csv iterator
+        line_split = row 
     val = line_split[6]+","+line_split[7]
     print(val)
     producer.send(topicName, key=line_split[0].encode(), value=val.encode())
