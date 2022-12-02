@@ -9,4 +9,4 @@
 - Task 4 | Googles Page rank Algorithm
 - Task 5 | Kafka and Spark
 
-After this, we were asked to work on a project with a pre determined topic and dataset
+After this, we were asked to create yet another map reducer frame work or another kafka!
